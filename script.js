@@ -135,7 +135,7 @@ function loadProjectContent() {
         },
         project15: {
             title: "Mosaics",
-            subtitle: "2020-2024, Mosaic Works, Various Dimensions & Locations",
+            subtitle: "2019-current, Mosaic Works, Various Dimensions & Locations",
             description: "The Mosaics collection represents a diverse body of work utilizing traditional and innovative mosaic techniques. These pieces incorporate kiln-formed glass, reclaimed tiles, found objects, and recycled materials to create intricate compositions. Each mosaic reflects the artist's commitment to sustainability and creative reuse while exploring patterns found in nature and the built environment.",
             folder: "project15"
         }
